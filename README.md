@@ -14,8 +14,10 @@ Feel free to reach out:
 
 ## 📈 Stats
 
-| <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api?username=themetalfleece&show_icons=true&hide_rank=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=My%20Public%20GitHub%20Stats" alt="My Public GitHub Stats" /></a> | <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetalfleece&layout=compact&langs_count=6&hide=c,tsql,php,makefile,assembly,sqlpl,c%2B%2B" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api?username=themetalfleece&show_icons=true&hide_rank=true&include_all_commits=true&theme=buefy&hide_border=false&custom_title=My%20Public%20GitHub%20Stats" alt="My Public GitHub Stats" /></a>
+  <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetalfleece&layout=compact&langs_count=6&hide=c,tsql,php,makefile,assembly,sqlpl,c%2B%2B" /></a>
+</div>
 
 ## 🧑‍💻 Featured Repositories
 
