@@ -1,3 +1,6 @@
+<!-- credits https://github.com/anuraghazra/github-readme-stats -->
+<!-- credits https://img.shields.io/ -->
+
 ## ✉️ Get in touch:
 
 <div align="center">
