@@ -1,16 +1,59 @@
-### Hi there 👋
+## ✉️ Get in touch:
 
-<!--
-**themetalfleece/themetalfleece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+Hey there 👋
+Feel free to reach out:
+   
+  [![Linkedin](https://img.shields.io/badge/-Jason_Athanasoglou-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/jathanasoglou)](https://linkedin.com/in/jathanasoglou)
+  [![Outlook Badge](https://img.shields.io/badge/-jathanasoglou@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:jathanasoglou@outlook.com)](mailto:jathanasoglou@outlook.com)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+
+| <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api?username=themetalfleece&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jason's github stats" /></a> | <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetalfleece&layout=compact&langs_count=6&hide=c,tsql,php,makefile,assembly,sqlpl,c%2B%2B" /></a> |
+| ------------- | ------------- |
+
+## 🧑‍💻 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/themetalfleece/neogma">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=neogma&theme=buefy" />
+  </a>
+  <a href="https://github.com/themetalfleece/nodejs-typescript-template">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=nodejs-typescript-template&theme=buefy" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/themetalfleece/nextjs-prisma-apollo-example">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=nextjs-prisma-apollo-example&theme=buefy" />
+  </a>
+  <a href="https://github.com/themetalfleece/intercom-discord">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=intercom-discord&theme=buefy" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/themetalfleece/board-game-scores">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=board-game-scores&theme=buefy" />
+  </a>
+  <a href="https://github.com/themetalfleece/tennis-score">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=tennis-score&theme=buefy" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/themetalfleece/string-similarity-data-fetch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=string-similarity-data-fetch&theme=buefy" />
+  </a>
+  <a href="https://github.com/themetalfleece/twitch-video-commands">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=twitch-video-commands&theme=buefy" />
+  </a>
+</div>
