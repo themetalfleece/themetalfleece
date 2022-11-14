@@ -47,16 +47,16 @@ Feel free to reach out:
   <a href="https://github.com/themetalfleece/board-game-scores">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=board-game-scores&theme=buefy" />
   </a>
-  <a href="https://github.com/themetalfleece/tennis-score">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=tennis-score&theme=buefy" />
+  <a href="https://github.com/themetalfleece/pokemon-data-bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=pokemon-data-bot&theme=buefy" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/themetalfleece/string-similarity-data-fetch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=string-similarity-data-fetch&theme=buefy" />
+  <a href="https://github.com/themetalfleece/tennis-score">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=tennis-score&theme=buefy" />
   </a>
   <a href="https://github.com/themetalfleece/twitch-video-commands">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themetalfleece&repo=twitch-video-commands&theme=buefy" />
