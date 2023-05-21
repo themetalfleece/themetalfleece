@@ -33,8 +33,8 @@ Feel free to reach out:
 <br />
 
 <div align="center">
-  <a href="https://github.com/themetalfleece/nextjs-prisma-apollo-example">
-    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=nextjs-prisma-apollo-example&theme=buefy" />
+  <a href="https://github.com/themetalfleece/name-the-digimon">
+    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=name-the-digimon&theme=buefy" />
   </a>
   <a href="https://github.com/themetalfleece/intercom-discord">
     <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=intercom-discord&theme=buefy" />
