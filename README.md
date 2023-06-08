@@ -1,7 +1,7 @@
 <!-- credits https://github.com/anuraghazra/github-readme-stats -->
 <!-- credits https://img.shields.io/ -->
 
-## ✉️ Get in touch:
+## 📈 About:
 
 <div align="center">
 
@@ -12,10 +12,7 @@ Feel free to reach out:
   [![Outlook Badge](https://img.shields.io/badge/-jathanasoglou@outlook.com-0078D4?style=flatsquare&logo=Microsoft-outlook&logoColor=white&link=mailto:jathanasoglou@outlook.com)](mailto:jathanasoglou@outlook.com)
 </div>
 
-## 📈 Stats
-
 <div align="center">
-  <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api?username=themetalfleece&show_icons=true&hide_rank=true&include_all_commits=true&theme=buefy&hide_border=false&custom_title=My%20Public%20GitHub%20Stats" alt="My Public GitHub Stats" /></a>
   <a href="https://github.com/themetalfleece"><img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/top-langs/?username=themetalfleece&layout=compact&langs_count=6&hide=c,tsql,php,makefile,assembly,sqlpl,c%2B%2B" /></a>
 </div>
 
