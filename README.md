@@ -30,19 +30,19 @@ Feel free to reach out:
 <br />
 
 <div align="center">
-  <a href="https://github.com/themetalfleece/name-the-digimon">
-    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=name-the-digimon&theme=buefy" />
+  <a href="https://github.com/themetalfleece/pdf-toolkit">
+    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=pdf-toolkit&theme=buefy" />
   </a>
-  <a href="https://github.com/themetalfleece/intercom-discord">
-    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=intercom-discord&theme=buefy" />
+  <a href="https://github.com/themetalfleece/board-game-scores">
+    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=board-game-scores&theme=buefy" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/themetalfleece/board-game-scores">
-    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=board-game-scores&theme=buefy" />
+  <a href="https://github.com/themetalfleece/tennis-score">
+    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=tennis-score&theme=buefy" />
   </a>
   <a href="https://github.com/themetalfleece/pokemon-data-bot">
     <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=pokemon-data-bot&theme=buefy" />
@@ -52,8 +52,8 @@ Feel free to reach out:
 <br />
 
 <div align="center">
-  <a href="https://github.com/themetalfleece/tennis-score">
-    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=tennis-score&theme=buefy" />
+  <a href="https://github.com/themetalfleece/intercom-discord">
+    <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=intercom-discord&theme=buefy" />
   </a>
   <a href="https://github.com/themetalfleece/twitch-video-commands">
     <img align="center" src="https://github-readme-stats-two-gamma-70.vercel.app/api/pin/?username=themetalfleece&repo=twitch-video-commands&theme=buefy" />
